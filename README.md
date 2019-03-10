@@ -1,11 +1,10 @@
-#Lecture 1
-
+# Lecture 1
 
 ## Github
 
 This lecture was on github
 
-### Activites we did.
+### Activites we did
 
 -git init
 -git status
