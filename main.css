@@ -1,0 +1,25 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+p{
+    border: 5px solid blue;
+    padding: 5px green;
+}
+.container{
+    text-align: center;
+    color: #ffffff;
+}
+#box{
+    background-color: blue;
+    height: 40px;
+    width: 40px;
+   display: inline;
+   float: left;
+}
+#box1{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    float: right;
+}
